@@ -1,4 +1,4 @@
-# simple-springboot-mysql-docker-app
+# simple-springboot-mysql-docker-swagger-app
 
 This project is created for understanding how to set up Swagger 2 with Spring Boot REST API using Springfox implementation of the Swagger 2 specification.
 
